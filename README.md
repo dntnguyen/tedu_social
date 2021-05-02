@@ -6,7 +6,7 @@
 - Typescript
 
 ## Command remebers
-
+### Lesson 9
 - Open terminal command windows: Ctrl + `
 - npm init or yarn init
 - git init
@@ -16,3 +16,5 @@
 - git config --global user.email "youremail@yourdomain.com"
 - git remote add origin https://github.com/dntnguyen/tedu_social.git
 - git push -u origin master
+### Lesson 10
+- tsc --init
